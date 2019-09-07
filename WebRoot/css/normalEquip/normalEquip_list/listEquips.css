@@ -1,0 +1,48 @@
+td label {
+    margin: 5px;
+    display: inline-block;
+    vertical-align: middle;
+}
+td label input {
+    vertical-align: middle;
+}
+.easyui-textbox{
+	width:175px;
+}
+
+.equipDatagrid .datagrid-header span{
+ 	font-size:20px !important;
+ 	font-family:黑体
+}
+.equipDatagrid .datagrid-header-row{
+ 	height:50px;
+}
+
+.equipDatagrid .datagrid-cell,
+.equipDatagrid .datagrid-cell-group,
+.equipDatagrid .datagrid-header-rownumber,
+.equipDatagrid .datagrid-cell-rownumber {
+		margin: 0;
+		padding: 0 4px;
+		white-space: nowrap;
+		word-wrap: normal;
+		overflow: hidden;
+		height: 24px;
+		line-height: 24px;
+		font-size: 18px;
+		font-family:黑体;
+}
+
+
+.equipDatagrid .datagrid-row {
+  height: 40px;
+}
+
+.equipDatagrid .datagrid-header td,
+.equipDatagrid .datagrid-body td,
+.equipDatagrid .datagrid-footer td {
+  border-width: 0 0 0 0;
+  border-style: dotted;
+  margin: 0;
+  padding: 0;
+}

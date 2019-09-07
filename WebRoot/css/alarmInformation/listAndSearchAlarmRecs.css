@@ -1,0 +1,48 @@
+td label {
+    margin: 5px;
+    display: inline-block;
+    vertical-align: middle;
+}
+td label input {
+    vertical-align: middle;
+}
+.easyui-textbox{
+	width:175px;
+}
+
+.datagrid-header span{
+ 	font-size:16px !important;
+ 	font-family:ºÚÌå
+ }
+.datagrid-header-row{
+ 	height:46px;
+}
+
+.datagrid-cell,
+.datagrid-cell-group,
+.datagrid-header-rownumber,
+.datagrid-cell-rownumber {
+		margin: 0;
+		padding: 0 4px;
+		white-space: nowrap;
+		word-wrap: normal;
+		overflow: hidden;
+		height: 20px;
+		line-height: 20px;
+		font-size: 14px;
+		font-family:ºÚÌå;
+}
+
+
+.datagrid-row {
+  height: 36px;
+}
+
+.datagrid-header td,
+.datagrid-body td,
+.datagrid-footer td {
+  border-width: 0 0 0 0;
+  border-style: dotted;
+  margin: 0;
+  padding: 0;
+}

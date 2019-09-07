@@ -1,0 +1,74 @@
+{
+    "version": "2.0",
+    "datas": 
+	[
+        {
+            "_className": "Q.Node",
+            "json": {
+                "name": "WEB服务器1",
+                "properties": {
+                    "deviceType": "WEB服务器",
+                    "deviceId":"365"
+                },
+                "location": {
+                    "x": -781,
+                    "y": -261
+                },
+                "image": "Q-exchanger"
+            },
+            "_refId": "171"
+        },
+        {
+            "_className": "Q.Node",
+            "json": {
+                "name": "WEB服务器2",
+                "properties": {
+                    "deviceType": "WEB服务器",
+                    "deviceId":"366"
+                },
+                "location": {
+                    "x": -656,
+                    "y": -270
+                },
+                "image": "Q-exchanger"
+            },
+            "_refId": "175"
+        },
+		{
+            "_className": "Q.Node",
+            "json": {
+                "name": "火影",
+                "properties": {
+                    "deviceType": "性能软探针",
+                    "deviceId":"390"
+                },
+                "location": {
+                    "x": -500,
+                    "y": -300
+                },
+                "image": "/test/images/topologyImages/key.png"
+            },
+            "_refId": "273"
+        },
+		{
+            "_className": "Q.Node",
+            "json": {
+                "name": "海贼王",
+                "properties": {
+                    "deviceType": "性能软探针",
+                    "deviceId":"370"
+                },
+                "location": {
+                    "x": -589,
+                    "y": -200
+                },
+                "image": "/test/images/topologyImages/key.png"
+            },
+            "_refId": "193"
+        }
+
+    ],
+    "scale": 0.455166135639508,
+    "tx": 500.143493899924,
+    "ty": 312.267393746548
+}

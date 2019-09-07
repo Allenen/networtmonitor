@@ -1,0 +1,50 @@
+{
+	"version": "2.0",
+	"datas": [
+		{
+			"_className": "Q.Node",
+			"json": {
+				"name": "mac",
+				"location": {
+					"x": 300,
+					"y": 200
+				},
+				"image": "images/node_icon.png"
+			},
+			"_refId": "171"
+		},
+		{
+			"_className": "Q.Node",
+			"json": {
+				"name": "server",
+				"location": {
+					"x": 200,
+					"y": 300
+				},
+				"image": "images/server_icon.png"
+			},
+			"_refId": "172"
+		},
+		{
+			"_className": "Q.Edge",
+			"json": {
+				"name": "",
+				"styles": {
+					"edge.width": 1,
+					"undefined": false,
+					"arrow.to": false
+				},
+				"from": {
+					"_ref": 171
+				},
+				"to": {
+					"_ref": 172
+				},
+				"edgeType": "orthogonal.H"
+			}
+		}
+	],
+	"scale": 1,
+	"tx": 0,
+	"ty": 0
+}

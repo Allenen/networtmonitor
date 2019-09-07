@@ -1,0 +1,24 @@
+
+.myImage{
+	margin-top: 20px;
+	-webkit-transition-duration: 0.5s;
+	-moz-transition-duration: 0.5s;
+	-o-transition-duration: 0.5s;
+	}
+.myImage img{
+		padding:10px;
+		border:1px solid #fff;
+		width:300px;
+		height:220px;
+
+}
+.myImage:hover{
+	-webkit-transform:scale(1.1);
+	-webkit-box-shadow:0px 0px 30px #ccc;
+	-moz-transform:scale(1.1);
+	-moz-box-shadow:0px 0px 30px #ccc;
+	-o-transform:scale(1.1);
+	-o-box-shadow:0px 0px 30px #ccc;	
+}	 
+
+

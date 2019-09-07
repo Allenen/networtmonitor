@@ -1,0 +1,36 @@
+.datagrid-header span{
+ 	font-size:10px !important;
+ 	font-family:ºÚÌå
+ }
+.datagrid-header-row{
+ 	height:30px;
+}
+
+.datagrid-cell,
+.datagrid-cell-group,
+.datagrid-header-rownumber,
+.datagrid-cell-rownumber {
+		margin: 0;
+		padding: 0 4px;
+		white-space: nowrap;
+		word-wrap: normal;
+		overflow: hidden;
+		height: 18px;
+		line-height: 18px;
+		font-size: 10px;
+		font-family:ºÚÌå;
+}
+
+
+.datagrid-row {
+  height: 20px;
+}
+
+.datagrid-header td,
+.datagrid-body td,
+.datagrid-footer td {
+  border-width: 0 0 0 0;
+  border-style: dotted;
+  margin: 0;
+  padding: 0;
+}
